@@ -17,8 +17,8 @@ Sample Superstore sales dataset from Kaggle (9,994 sales, 13 columns). Amounts a
 - Tables are the biggest loss-making product type (about -$17,700). Tables sold below a 30% discount earned about $13,000, while those at 30% or more lost about $31,000.
 
 ## Charts
-![Average profit per sale by discount](profit_by_discount.png)
-![Total profit by product type](profit_by_product_type.png)
+![Average profit per sale by discount](profit_by_discount_type.png.png)
+![Total profit by product type](profit_by_product_type.png.png)
 
 ## Recommendation
 Limit discounts to below 30%, starting with Tables. The data shows losses are concentrated in heavily discounted sales, but it does not prove discounts are the only cause.
